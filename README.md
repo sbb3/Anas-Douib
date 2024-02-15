@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, NestJS**
 
-- 👨‍💻 All of my projects are available at [anasdouib.me](https://anasdouib.me)
+- 👨‍💻 Some of my projects are available at [anasdouib.me](https://anasdouib.me)
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**
 
