@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Douib</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
-
-- 🔭 I’m currently working on **ft_transcendence**
-
-- 🌱 I’m currently learning **Next.js, NestJS**
-
-- 👨‍💻 Some of my projects are available at [anasdouib.me](https://anasdouib.me)
-
-- 💬 Ask me about **React, Node.js, MongoDB, Express.js**
-
-- 📫 How to reach me **adouib@student.1337.ma**
+<h3 align="center">A Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
